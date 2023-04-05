@@ -1,0 +1,22 @@
+PARSFILE
+#FullDataName Wind Heading`No Data`Empty (You should edit or delete this)
+#CheckBox0 0    
+
+#RingCtrl0 CONSTANT
+#RingCtrl1 CONSTANT
+#RingCtrl2 MULTIPLY
+WIND_HEADING_COMBINE MULTIPLY
+#RadioCtrl0 0    
+#RadioCtrl1 0    
+
+
+
+LOG_ENTRY Used Dataset: Wind Heading; { Empty (You should edit or delete this) } No Data
+#Library : Wind Heading
+#DataSet : No Data
+#Category: Empty (You should edit or delete this)
+#FileID  : WindDir_854e3e61-aaae-49fb-9bdf-573956fbac2b
+#Product : CarSim 2019.1
+#VehCode Wind Heading
+
+END

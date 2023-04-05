@@ -1,0 +1,23 @@
+2023-03-09T08:19:26 Logfile initialized.
+2023-03-09T08:19:26 CarSim 2019.1
+2023-03-09T08:19:26 -
+2023-03-09T08:19:26 command-line: 
+2023-03-09T08:19:26 -
+2023-03-09T08:19:26 Working Dir: H:\auto_driver\formation_planner_exp\car2_model\
+2023-03-09T08:19:26 Program Dir: D:\CarSim2019.1_Prog\
+2023-03-09T08:19:26 -
+2023-03-09T08:19:26 OS Version:        6.2 (build 9200)
+2023-03-09T08:19:26 CPU Architecture:  x64
+2023-03-09T08:19:26 CPU Count:         24
+2023-03-09T08:19:26 CPU Level/Rev:     6/46849
+2023-03-09T08:19:26 Start Mem Total:   32509 MB
+2023-03-09T08:19:26 Start Mem Used:    16%
+2023-03-09T08:19:26 -
+2023-03-09T08:19:26 Loaded dataset index cache in 0.00s, 0.5 megabytes.
+2023-03-09T08:19:26 Error: A license manager is already running.
+2023-03-09T08:19:26 License check took 0.14 seconds.
+2023-03-09T08:19:26 Initial setup took 0.25 seconds.
+2023-03-09T08:19:26 Auto updates took 0.00 seconds.
+2023-03-09T08:19:27 Loaded last screen in 0.17 seconds.
+2023-03-09T08:19:27 Total init time 0.64 seconds.
+2023-03-09T12:37:37 107 index cache entries written in 0.000s

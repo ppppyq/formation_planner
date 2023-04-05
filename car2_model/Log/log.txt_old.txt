@@ -1,0 +1,150 @@
+2023-03-08T12:25:58 Logfile initialized.
+2023-03-08T12:25:58 CarSim 2019.1
+2023-03-08T12:25:58 -
+2023-03-08T12:25:58 command-line: 
+2023-03-08T12:25:58 -
+2023-03-08T12:25:58 Working Dir: H:\auto_driver\formation_planner_exp\car2_model\
+2023-03-08T12:25:58 Program Dir: D:\CarSim2019.1_Prog\
+2023-03-08T12:25:58 -
+2023-03-08T12:25:58 OS Version:        6.2 (build 9200)
+2023-03-08T12:25:58 CPU Architecture:  x64
+2023-03-08T12:25:58 CPU Count:         24
+2023-03-08T12:25:58 CPU Level/Rev:     6/46849
+2023-03-08T12:25:58 Start Mem Total:   32509 MB
+2023-03-08T12:25:58 Start Mem Used:    22%
+2023-03-08T12:25:58 -
+2023-03-08T12:25:58 Loaded dataset index cache in 0.00s, 0.5 megabytes.
+2023-03-08T12:25:58 Feature                  Version  Acquired  Count
+2023-03-08T12:25:58 -----------------        -------  --------  -----
+2023-03-08T12:25:58 bikesimsguixx            2019     [   ]          
+2023-03-08T12:25:58 bikesimxx                2019     [   ]          
+2023-03-08T12:25:58 bikesimtxx               2019     [   ]          
+2023-03-08T12:25:58 bikesimsmoxx             2019     [   ]          
+2023-03-08T12:25:58 bikesimsmortxx           2019     [   ]          
+2023-03-08T12:25:58 bikesimsrcxx             2019     [   ]          
+2023-03-08T12:25:58 bikesimsrctxx            2019     [   ]          
+2023-03-08T12:25:58 bikesimopalxx            2019     [   ]          
+2023-03-08T12:25:58 bikesimopaltxx           2019     [   ]          
+2023-03-08T12:25:58 bikesimlinuxxx           2019     [   ]          
+2023-03-08T12:25:58 bikesimlinuxtxx          2019     [   ]          
+2023-03-08T12:25:58 bikesimdspacexx          2019     [   ]          
+2023-03-08T12:25:58 bikesimdspacetxx         2019     [   ]          
+2023-03-08T12:25:58 bikesimadixx             2019     [   ]          
+2023-03-08T12:25:58 bikesimaditxx            2019     [   ]          
+2023-03-08T12:25:58 bikesimlabviewxx         2019     [   ]          
+2023-03-08T12:25:58 bikesimlabviewtxx        2019     [   ]          
+2023-03-08T12:25:58 bikesimwdsxx             2019     [   ]          
+2023-03-08T12:25:58 bikesimwdstxx            2019     [   ]          
+2023-03-08T12:25:58 bikesimfrtxx             2019     [   ]          
+2023-03-08T12:25:58 bikesimfxx               2019     [   ]          
+2023-03-08T12:25:58 bikesimlabcarxx          2019     [   ]          
+2023-03-08T12:25:58 bikesimlabcartxx         2019     [   ]          
+2023-03-08T12:25:58 bikesimanixx             2019     [   ]          
+2023-03-08T12:25:58 bikesimrtsvrxx           2019     [   ]          
+2023-03-08T12:25:58 bikesimrtsvrtxx          2019     [   ]          
+2023-03-08T12:25:58 bikesimartelabxx         2019     [   ]          
+2023-03-08T12:25:58 bikesimartelabtxx        2019     [   ]          
+2023-03-08T12:25:58 bikesimepixx             2019     [   ]          
+2023-03-08T12:25:58 bikesimengmtxx           2019     [   ]          
+2023-03-08T12:25:58 bikesimengmtrtxx         2019     [   ]          
+2023-03-08T12:25:58 trucksimsguixx           2019     [   ]          
+2023-03-08T12:25:58 trucksimxx               2019     [   ]          
+2023-03-08T12:25:58 trucksimsmoxx            2019     [   ]          
+2023-03-08T12:25:58 trucksimsmortxx          2019     [   ]          
+2023-03-08T12:25:58 trucksimtxx              2019     [   ]          
+2023-03-08T12:25:58 trucksimsrcxx            2019     [   ]          
+2023-03-08T12:25:58 trucksimsrctxx           2019     [   ]          
+2023-03-08T12:25:58 trucksimopalxx           2019     [   ]          
+2023-03-08T12:25:58 trucksimopaltxx          2019     [   ]          
+2023-03-08T12:25:58 trucksimlinuxxx          2019     [   ]          
+2023-03-08T12:25:58 trucksimlinuxtxx         2019     [   ]          
+2023-03-08T12:25:58 trucksimdspacexx         2019     [   ]          
+2023-03-08T12:25:58 trucksimdspacetxx        2019     [   ]          
+2023-03-08T12:25:58 trucksimadixx            2019     [   ]          
+2023-03-08T12:25:58 trucksimaditxx           2019     [   ]          
+2023-03-08T12:25:58 trucksimlabviewxx        2019     [   ]          
+2023-03-08T12:25:58 trucksimlabviewtxx       2019     [   ]          
+2023-03-08T12:25:58 trucksimwdsxx            2019     [   ]          
+2023-03-08T12:25:58 trucksimwdstxx           2019     [   ]          
+2023-03-08T12:25:58 trucksimfrtxx            2019     [   ]          
+2023-03-08T12:25:58 trucksimfxx              2019     [   ]          
+2023-03-08T12:25:58 trucksimlabtruckxx       2019     [   ]          
+2023-03-08T12:25:58 trucksimlabtrucktxx      2019     [   ]          
+2023-03-08T12:25:58 trucksimanixx            2019     [   ]          
+2023-03-08T12:25:58 trucksimrtsvrxx          2019     [   ]          
+2023-03-08T12:25:58 trucksimrtsvrtxx         2019     [   ]          
+2023-03-08T12:25:58 trucksimartelabxx        2019     [   ]          
+2023-03-08T12:25:58 trucksimartelabtxx       2019     [   ]          
+2023-03-08T12:25:58 trucksimepixx            2019     [   ]          
+2023-03-08T12:25:58 trucksimengmtxx          2019     [   ]          
+2023-03-08T12:25:58 trucksimengmtrtxx        2019     [   ]          
+2023-03-08T12:25:58 carsimsguixx             2019     [   ]          
+2023-03-08T12:25:58 carsimxx                 2019     [   ]          
+2023-03-08T12:25:58 carsimtxx                2019     [   ]          
+2023-03-08T12:25:58 carsimsmoxx              2019     [   ]          
+2023-03-08T12:25:58 carsimsmortxx            2019     [   ]          
+2023-03-08T12:25:58 carsimsrcxx              2019     [   ]          
+2023-03-08T12:25:58 carsimsrctxx             2019     [   ]          
+2023-03-08T12:25:58 carsimopalxx             2019     [   ]          
+2023-03-08T12:25:58 carsimopaltxx            2019     [   ]          
+2023-03-08T12:25:58 carsimlinuxxx            2019     [   ]          
+2023-03-08T12:25:58 carsimlinuxtxx           2019     [   ]          
+2023-03-08T12:25:58 carsimdspacexx           2019     [   ]          
+2023-03-08T12:25:58 carsimdspacetxx          2019     [   ]          
+2023-03-08T12:25:58 carsimadixx              2019     [   ]          
+2023-03-08T12:25:58 carsimaditxx             2019     [   ]          
+2023-03-08T12:25:58 carsimlabviewxx          2019     [   ]          
+2023-03-08T12:25:58 carsimlabviewtxx         2019     [   ]          
+2023-03-08T12:25:58 carsimwdsxx              2019     [   ]          
+2023-03-08T12:25:58 carsimwdstxx             2019     [   ]          
+2023-03-08T12:25:58 carsimfrtxx              2019     [   ]          
+2023-03-08T12:25:58 carsimfxx                2019     [   ]          
+2023-03-08T12:25:58 carsimlabcarxx           2019     [   ]          
+2023-03-08T12:25:58 carsimlabcartxx          2019     [   ]          
+2023-03-08T12:25:58 carsimanixx              2019     [   ]          
+2023-03-08T12:25:58 carsimrtsvrxx            2019     [   ]          
+2023-03-08T12:25:58 carsimrtsvrtxx           2019     [   ]          
+2023-03-08T12:25:58 carsimartelabxx          2019     [   ]          
+2023-03-08T12:25:58 carsimartelabtxx         2019     [   ]          
+2023-03-08T12:25:58 carsimepixx              2019     [   ]          
+2023-03-08T12:25:58 carsimengmtxx            2019     [   ]          
+2023-03-08T12:25:58 carsimengmtrtxx          2019     [   ]          
+2023-03-08T12:25:58 sussimxx                 2019     [   ]          
+2023-03-08T12:26:00 Acquired [1] license for carsimsguixx
+2023-03-08T12:26:00 Acquired [1] license for carsimxx
+2023-03-08T12:26:00 Acquired [1] license for carsimwdsxx
+2023-03-08T12:26:00 Acquired [1] license for carsimopalxx
+2023-03-08T12:26:00 Acquired [1] license for carsimlinuxxx
+2023-03-08T12:26:00 Acquired [1] license for carsimdspacexx
+2023-03-08T12:26:00 Acquired [1] license for carsimlabviewxx
+2023-03-08T12:26:00 Acquired [1] license for carsimlabcarxx
+2023-03-08T12:26:00 Acquired [1] license for carsimrtsvrxx
+2023-03-08T12:26:00 Acquired [1] license for carsimartelabxx
+2023-03-08T12:26:00 Acquired [1] license for carsimepixx
+2023-03-08T12:26:00 Acquired [1] license for carsimtxx
+2023-03-08T12:26:00 Acquired [1] license for carsimengmtxx
+2023-03-08T12:26:00 Acquired [1] license for carsimfxx
+2023-03-08T12:26:00 Acquired [1] license for carsimsmoxx
+2023-03-08T12:26:00 Acquired [1] license for carsimanixx
+2023-03-08T12:26:00 License check took 1.55 seconds.
+2023-03-08T12:26:00 Initial setup took 0.28 seconds.
+2023-03-08T12:26:00 Auto updates took 0.00 seconds.
+2023-03-08T12:26:00 Loaded last screen in 0.20 seconds.
+2023-03-08T12:26:00 Total init time 2.12 seconds.
+2023-03-08T13:40:20 107 index cache entries written in 0.000s
+2023-03-08T13:40:20 Released [1] license for carsimsguixx
+2023-03-08T13:40:20 Released [1] license for carsimxx
+2023-03-08T13:40:20 Released [1] license for carsimwdsxx
+2023-03-08T13:40:20 Released [1] license for carsimopalxx
+2023-03-08T13:40:20 Released [1] license for carsimlinuxxx
+2023-03-08T13:40:20 Released [1] license for carsimdspacexx
+2023-03-08T13:40:20 Released [1] license for carsimlabviewxx
+2023-03-08T13:40:20 Released [1] license for carsimlabcarxx
+2023-03-08T13:40:20 Released [1] license for carsimrtsvrxx
+2023-03-08T13:40:20 Released [1] license for carsimartelabxx
+2023-03-08T13:40:20 Released [1] license for carsimepixx
+2023-03-08T13:40:20 Released [1] license for carsimtxx
+2023-03-08T13:40:20 Released [1] license for carsimengmtxx
+2023-03-08T13:40:20 Released [1] license for carsimfxx
+2023-03-08T13:40:20 Released [1] license for carsimsmoxx
+2023-03-08T13:40:20 Released [1] license for carsimanixx

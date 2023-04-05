@@ -1,0 +1,27 @@
+global_path_x = global_path_x_original.Data;
+global_path_y = global_path_y_original1.Data;
+global_yaw = glo
+dx = diff(global_path_x);
+dy = diff(global_path_y);
+
+global_yaw = global_yaw*pi*pi/180;
+dx_pre = [dx(1);dx];
+dx_after = [dx;dx(end)];
+dx_final = (dx_pre+dx_after)/2;
+
+
+dy_pre = [dy(1);dy];
+dy_after = [dy;dy(end)];
+dy_final = (dy_pre+dy_after)/2;
+
+
+ds_final = sqrt(dx_final.^2+dy_final.^2);
+
+
+dheading = diff(global_yaw);
+dheading_pre = [dheading(1);dheading];
+dheading_after = [dheading;dheading(end)];
+dheading_final = (dheading_pre+dheading_after)/2;
+
+
+global_kappa = dheading_final./ds_final;
